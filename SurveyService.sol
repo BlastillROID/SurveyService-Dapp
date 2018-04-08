@@ -1,5 +1,8 @@
 pragma solidity ^0.4.21;
 
+// Author: MissaouiMounir
+// Date: 08-04-2018-8:24:30
+// Description: Survey Service on the Ethereum Network
 
 contract SurveyService{
     
